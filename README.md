@@ -1,1 +1,0 @@
-geekbrains_type_script
