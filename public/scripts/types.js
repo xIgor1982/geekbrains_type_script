@@ -1,0 +1,7 @@
+export var Genre;
+(function (Genre) {
+    Genre[Genre["Fantasy"] = 1] = "Fantasy";
+    Genre[Genre["Adventure"] = 2] = "Adventure";
+    Genre[Genre["Horror"] = 3] = "Horror";
+})(Genre || (Genre = {}));
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoidHlwZXMuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi9zcmMvdHlwZXMudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBRUEsTUFBTSxDQUFOLElBQVksS0FJWDtBQUpELFdBQVksS0FBSztJQUNmLHVDQUFXLENBQUE7SUFDWCwyQ0FBUyxDQUFBO0lBQ1QscUNBQU0sQ0FBQTtBQUNSLENBQUMsRUFKVyxLQUFLLEtBQUwsS0FBSyxRQUloQiIsInNvdXJjZXNDb250ZW50IjpbImV4cG9ydCB0eXBlIFJldmlldyA9IFtzdHJpbmcsIG51bWJlciwgc3RyaW5nXVxuXG5leHBvcnQgZW51bSBHZW5yZSB7XG4gIEZhbnRhc3kgPSAxLFxuICBBZHZlbnR1cmUsXG4gIEhvcnJvclxufVxuXG5cbnR5cGUgSWQgPSBudW1iZXIgfCBzdHJpbmdcbnR5cGUgV2Vla0RheSA9ICdNbycgfCAnVHUnIHwgJ1dlJyB8ICdUaHUnIHwgJ0ZyJyB8ICdTYScgfCAnU3UnXG50eXBlIFdlZWtEYXlOdW1iZXIgPSAwIHwgMSB8IDIgfCAzIHwgNCB8IDUgfCA2XG50eXBlIE1vbnRoTnVtYmVyID0gMCB8IDEgfCAyIHwgMyB8IDQgfCA1IHwgNiB8IDcgfCA4IHwgOSB8IDEwIHwgMTFcbnR5cGUgRGlyZWN0aW9uID0gJ2JhY2snIHwgJ2ZvcndhcmQnXG50eXBlIFllc05vID0gYm9vbGVhbiB8IDAgfCAxXG4iXX0=
